@@ -19,3 +19,5 @@ Productive and sleek niri config
 - Fish
 - FastFetch
 - Alacritty
+---
+## This rice is still being updated and worked on.
